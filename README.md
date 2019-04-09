@@ -1,4 +1,4 @@
-# *python and c++ implement of transforming the yuv(*.bmp/*.nv12) format to bmp
+# *python and c++ implement of transforming the yuv(*.yuv/*.nv12) format to bmp(*.bmp)
 
 ## File struction
  - `nv12.py`: Python implement. 
